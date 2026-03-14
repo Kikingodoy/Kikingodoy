@@ -35,7 +35,7 @@ I'm architecting a framework that forces LLMs to doubt their own knowledge and f
 
 ✅ Mathematical frameworks formalized (ERM loss, Empirical Distrust)
 
-⏳ Seeking GPU sponsorship (4+ H100 equivalents)
+⏳ Seeking GPU sponsorship
 
 ⏳ Seeking academic mentorship for fine‑tuning and evaluation
 
