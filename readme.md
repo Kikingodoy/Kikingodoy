@@ -1,10 +1,10 @@
 # Aaron Godoy
-**Independent AI Researcher | Dual-Enrollment Scholar**
+**Independent AI Researcher*
 **West Sacramento, Ca**
 **aaron.godoy.research@gmail.com**
 
 # The Problem in One Sentence
-LLMs don't read. They pattern-match. Feed a model a new book, and it ignores the text--defaulting to quotes
+LLMs don't read. They pattern-match. Feed a model a new book, and it ignores the text - defaulting to quotes
 it memorized during training. This isn't "reasoning." It's stubborn statistical parroting.
 
 ### Why LLMs Don't Read | The Stubbornness Problem
